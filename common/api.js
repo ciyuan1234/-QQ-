@@ -1,0 +1,32 @@
+
+
+module.exports = {
+	LOGIN:"login",
+	POST_USER_INFO:"post_user_info",
+	POST_FORMID:"post_formid",
+	CHANGE_POT:"change_pot",
+	CHANGE_CAR:"change_car",
+	MID2USERID:"mid2userid",
+	GET_USER_INFO:"get_user_info",
+	APP_INIT:"app_init",
+	ACTION_TO_PLANT:"action_to_plant",
+	GET_SERVER_TIME:"get_server_time",
+	GET_SHOP:"get_shop",
+	GET_DIARY:"get_diary",
+	GET_POTS:"get_pots",
+	GET_RANK:"get_rank",
+	GET_GALLERY:"get_gallery",
+	GET_VISITORS:"get_visitors",
+	GET_WAREHOUSE:"get_warehouse",
+	GET_FERTILIZERS:"get_fertilizers",
+	SPEEDUP:"speedup",
+	GAIN_PLANT:"gain_plant",
+	GAIN_COIN:"gain_coin",
+	GET_BANK_INFO:"get_bank_info",
+	BANK_OUT:"bank_out",
+	SALE:"sale",
+	SHOPPING:"shopping",
+	BUY_FERTILIZER:"buy_fertilizer",
+	SOW:"sow",
+	TRANSFER:"transfer"
+}
