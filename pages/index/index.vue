@@ -710,7 +710,7 @@
 	import ezshare from "../../components/ezshare"
 	import ezwindow from "../../components/ezwindow"
 	import ezlogin from "../../components/ezlogin"
-	import poster from "components/posters-layer/index"
+	import poster from "../../components/posters-layer/index"
 	import ezguide from "../../components/ezguide"
 	
 	import utils from "../../common/utils.js"
