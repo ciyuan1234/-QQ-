@@ -1,6 +1,6 @@
 
 
-module.exports = {
+export default {
 	LOGIN:"login",
 	POST_USER_INFO:"post_user_info",
 	POST_FORMID:"post_formid",

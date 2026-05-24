@@ -214,7 +214,7 @@ function check_update(){
 	})
 }
 
-module.exports = {
+export default {
 	login:login,
 	trim:trim,
 	check_update:check_update,

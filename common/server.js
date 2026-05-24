@@ -71,7 +71,7 @@ function cdn2host(cdnurl){
 	return cdnurl;
 }
 
-module.exports = {
+export default {
 	HOST:HOST,
 	API_HOST:API_HOST,
 	CDN_HOST:CDN_HOST,
