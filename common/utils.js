@@ -1,5 +1,5 @@
-import server from "common/server.js"
-import api from "common/api.js"
+import server from "./server.js"
+import api from "./api.js"
 
 function login(cb)
 {
